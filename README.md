@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Ahmad, an aspiring NLP engineer at the University of British Columbia
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,html,css,express,anaconda,bash,docker,firebase,git,jest,linux,php,postgres,postman,py,pytorch,react,supabase,tensorflow,vscode )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,html,css,express,anaconda,bash,docker,firebase,git,jest,linux,mysql,php,postgres,postman,py,pytorch,react,supabase,tensorflow,vscode )](https://skillicons.dev)
 
 
 <!--
