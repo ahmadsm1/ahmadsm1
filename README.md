@@ -1,8 +1,11 @@
 ## Hi there 👋
-I'm Ahmad, an aspiring NLP engineer at the University of British Columbia
+I'm Ahmad, an NLP Research Assistant at the University of British Columbia
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,html,css,express,anaconda,bash,docker,firebase,git,jest,linux,mysql,php,postgres,postman,py,pytorch,react,supabase,tensorflow,vscode )](https://skillicons.dev)
 
+- 🔭 I’m currently working on: evaluating LLM agent frameworks for notebook optimization
+- 📫 How to reach me: send a DM!
+- ⚡ Fun fact: my profile picture is art piece entitled "Self-Portrait with Death Playing the Fiddle" by Arnold Böcklin. Death is playing a violin with the lowest string, also the only string. 
 
 <!--
 **ahmadsm1/ahmadsm1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
