@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Ahmad, an NLP Research Assistant at the University of British Columbia
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,html,css,express,anaconda,bash,docker,firebase,git,jest,linux,mysql,php,postgres,postman,py,pytorch,react,supabase,tensorflow,vscode )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,html,css,express,flask,anaconda,bash,ubuntu,java,docker,firebase,git,jest,linux,mysql,php,postgres,postman,py,pytorch,react,supabase,tensorflow,vscode,latex,md )](https://skillicons.dev)
 
 - 🔭 I’m currently working on: evaluating LLM agent frameworks for notebook optimization
 - 📫 How to reach me: send a DM!
